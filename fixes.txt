@@ -3,3 +3,5 @@ I'm a fixing file.
 fixed another bug
 
 One more bug fixed.
+
+Fourth Bug Fixed
