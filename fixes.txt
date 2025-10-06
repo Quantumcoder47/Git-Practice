@@ -7,3 +7,5 @@ One more bug fixed.
 Fourth Bug Fixed
 
 Fifth Bug fixed
+
+Another fix message
